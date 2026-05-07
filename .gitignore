@@ -9,7 +9,6 @@ venv/
 
 # Notebooks
 .ipynb_checkpoints/
-*.ipynb
 
 # Secrets
 .env
