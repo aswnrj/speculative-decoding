@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Virtual env
+.venv/
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Secrets
+.env
+
+# Model weights
+*.safetensors
+*.bin
+*.pt
+
+# IDE / OS
+.vscode/
+.DS_Store
+Thumbs.db

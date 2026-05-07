@@ -1,0 +1,6 @@
+transformers>=4.45
+accelerate>=0.34
+datasets>=2.20
+scipy>=1.11
+pytest>=8.0
+matplotlib>=3.8
